@@ -13,6 +13,7 @@
 .*.lb
 
 *.tmp
+.DS_Store
 
 ## Intermediate documents:
 *.dvi
